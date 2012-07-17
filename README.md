@@ -3,8 +3,7 @@ yumtools
 
 Requires
 ========
-clint
-PyYAML
-createrepo
-
+* clint
+* PyYAML
+* createrepo
 
