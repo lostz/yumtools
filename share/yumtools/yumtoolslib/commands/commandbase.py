@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 from optparse import OptionParser, OptionGroup
 from yumtoolslib import io

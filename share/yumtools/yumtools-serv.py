@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 import sys, os
 sys.path.insert(0, '/usr/share/yumtools')

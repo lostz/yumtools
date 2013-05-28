@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 EXIT_SUCCEED                    =   0
 EXIT_LOAD_CONFIG_FAILED         =   1

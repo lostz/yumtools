@@ -1,2 +1,2 @@
-﻿scp -r /home/luyan/project/yumtools l-luyan.opsbeta.cn6:
+scp -r /home/luyan/project/yumtools l-luyan.opsbeta.cn6:
 ssh l-luyan.opsbeta.cn6 "rpmbuild -bb yumtools/specs/yumtools-serv.spec"

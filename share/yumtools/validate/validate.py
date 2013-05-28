@@ -1,4 +1,4 @@
-﻿# validate.py
+# validate.py
 # A Validator object
 # Copyright (C) 2005-2010 Michael Foord, Mark Andrews, Nicola Larosa
 # E-mail: fuzzyman AT voidspace DOT org DOT uk

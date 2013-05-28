@@ -1,4 +1,4 @@
-﻿# configobj.py
+# configobj.py
 # A config file reader/writer that supports nested sections in config files.
 # Copyright (C) 2005-2010 Michael Foord, Nicola Larosa
 # E-mail: fuzzyman AT voidspace DOT org DOT uk
