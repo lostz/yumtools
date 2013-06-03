@@ -14,3 +14,4 @@ Requires
 
 QuickStart
 ========
+https://github.com/jaypei/yumtools/wiki
